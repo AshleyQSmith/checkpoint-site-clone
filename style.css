@@ -10,3 +10,21 @@
   max-height: 10vh;
 }
 
+
+.card-body {
+  background-color: grey;
+  margin-bottom: -10vh;
+  
+}
+
+.rowup {
+  margin-bottom: -12vh;
+}
+
+.blankspace {
+  height: 30vh;
+}
+
+.btnup {
+  margin-bottom: -8vh;
+}
